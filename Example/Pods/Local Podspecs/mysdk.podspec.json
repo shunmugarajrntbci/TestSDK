@@ -1,0 +1,22 @@
+{
+  "name": "mysdk",
+  "version": "0.1.0",
+  "summary": "A short description of mysdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shanmugaraj.subramanian-renexter@rntbci.com/mysdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shanmugaraj.subramanian-renexter@rntbci.com": "shanmugaraj.subramanian-renexter@rntbci.com"
+  },
+  "source": {
+    "git": "https://github.com/shanmugaraj.subramanian-renexter@rntbci.com/mysdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "mysdk/Classes/**/*"
+}
